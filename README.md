@@ -1,9 +1,18 @@
+  <h3 align="center">A 3D Dev Portfolio</h3>
+
+<a href="https://youtu.be/kt0FrkQgw8w" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+
+## <a name="introduction">🤖 About this portfolio</a>
+
+I built this 3D portfolio website with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS. The primary goal is to demonstrate the my skills in a unique manner that creates a lasting impact.
+
 <div align="center">
   <br />
     <a href="https://youtu.be/kt0FrkQgw8w" target="_blank">
       <img src="https://github.com/vedantsp/vedant.pro/blob/main/public/assets/portfolio1.png" alt="Project Banner">
-      <img src="https://github.com/user-attachments/assets/2afc2dc3-f840-4d98-9378-f34acd7df173" alt="Project Banner">
-      <img src="https://github.com/user-attachments/assets/2afc2dc3-f840-4d98-9378-f34acd7df173" alt="Project Banner">
+      <img src="https://github.com/vedantsp/vedant.pro/blob/main/public/assets/portfolio2.png" alt="Project Banner">
+      <img src="https://github.com/vedantsp/vedant.pro/blob/main/public/assets/portfolio3.png" alt="Project Banner">
+      <img src="https://github.com/vedantsp/vedant.pro/blob/main/public/assets/portfolio4.png" alt="Project Banner">
     </a>
   <br />
 
@@ -13,17 +22,6 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A 3D Dev Portfolio</h3>
-
-<a href="https://youtu.be/kt0FrkQgw8w" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
-## <a name="introduction">🤖 About this portfolio</a>
-
-I built this 3D portfolio website with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS. The primary goal is to demonstrate the my skills in a unique manner that creates a lasting impact.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
