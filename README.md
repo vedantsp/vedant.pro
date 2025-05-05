@@ -18,17 +18,6 @@
     </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Links](#links)
-7. 📦 [Assets](#assets)
-8. 🚀 [More](#more)
-
 ## 🚨 Tutorial
 
 This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
@@ -39,7 +28,7 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS, the 3D Minimalistic portfolio is a website project. The primary goal is to demonstrate the developer's skills in a unique manner that creates a lasting impact.
+I built this 3D portfolio website with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS. The primary goal is to demonstrate the my skills in a unique manner that creates a lasting impact.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
 
@@ -88,12 +77,6 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/JavaScript-Mastery-Pro/threejscc-portfolio.git
-cd threejscc-portfolio
-```
 
 **Installation**
 
@@ -854,23 +837,6 @@ useGLTF.preload('/models/hacker-room.glb');
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-Here is the list of all the resources used in the project video:
-
-- [Hacker Room](https://sketchfab.com/3d-models/hacker-room-stylized-a0cfe6edf2dd494c8a95addf6bb13a10)
-- [Computer](https://sketchfab.com/3d-models/3d-computer-sketchfab-weekly-11-mar23-d9931a9aba7c4ea1bc12b2a59dcef16e)
-- [Target Model](https://vazxmixjsiawhamofees.supabase.co/storage/v1/object/public/models/target-stand/model.gltf)
-- [React Logo](https://sketchfab.com/3d-models/react-logo-76174ceeba96487f9863f974636f641e)
-- [gltfjsx](https://gltf.pmnd.rs/)
-- [ReadyPlayerMe](https://readyplayer.me/)
-- [Mixamo](https://www.mixamo.com/)
-- [FBX Animations ZIP](https://drive.google.com/file/d/1yQhrRvEQFEwxbjG2qelv_T-gAatXJ3N1/view?usp=sharing)
-
-
-## <a name="assets">🔗 Assets</a>
-
-Models and Assets used in the project can be found [here](https://drive.google.com/file/d/1UiJyotDmF2_tBC-GeLpRZuFY_gx5e7iX/view?usp=sharing)
 
 ## <a name="more">🚀 More</a>
 **Advance your skills with Next.js Pro Course**
