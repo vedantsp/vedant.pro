@@ -16,7 +16,7 @@ I built this 3D portfolio website with React.js for handling the user interface,
       <img src="https://github.com/vedantsp/vedant.pro/blob/main/public/assets/portfolio4.png" alt="Project Banner">
     </a>
   <br />
-
+</div>
   
 
 
