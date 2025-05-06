@@ -5,7 +5,7 @@
 
 ## <a name="introduction">🤖 About this portfolio</a>
 
-I built this 3D portfolio website with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS. The primary goal is to demonstrate the my skills in a unique manner that creates a lasting impact.
+I built this 3D portfolio website with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS. The primary goal is to demonstrate  my skills in a unique manner that showcase my capabilities, skill sets and my past work.
 
 <div align="center">
   <br />
